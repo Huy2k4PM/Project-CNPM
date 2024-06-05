@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: linear-gradient(to right,#4adf54,#3d8880);
+}
+.card{
+    position: relative;
+    width: 317px;
+    height: 400px;
+    background: #272d40;
+    margin: 0 auto;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+.cart.icon_heart{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    top: 5%;
+    left: 6%;
+    cursor: pointer;
+}
+.cart.icon_cart{
+    position: absolute;
+    color: white;;
+    font-size: 25px;
+    top: 5%;
+    left: 6%;
+    cursor: pointer;
+}
+.card_img{
+    width: 90%; 
+    transition: 0.3s;
+}
+.card_img imp{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: -65px;
+}
+.card_titel, .card_price{
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    transition: 0.5s;
+    margin: 10px;
+
+
+}
+.card_titel {
+    color: #4adf54;
+    margin-top: -10px;
+}
+.card_size span{
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    background: #b0bbe0;
+    padding: 3px 8px;
+    text-align: center;
+    color: white;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.card_size{
+    margin-left: 20px;
+}
+.card_color{
+    margin-left: 20px;
+}
+.card_size h3{
+    color: white;
+}
+.card_color span{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 0 8px;
+    cursor: pointer;
+}
+.card_color_green{
+    background: green;
+}
+.card_color_red{
+    background: red;
+}
+.card_color_black{
+    border: black;
+}
+.card_size, .card_color{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.card_button button{
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    width: 90px;
+    height: 35px;
+    border-radius: 5px;
+    background: #4adf54;
+    color: white;
+    font-size: 15px;
+    transition: 0.2s;
+}
+.card_button button:hover{
+    transform: scale(0.9);
+}
+.card:hover .card_img{
+    transform: translateY(-90px) rotate(-20deg);
+}
+.card:hover .card_img{
+    transform: translate(-30px,-81px);
+}
+.card:hover .card_titel{
+    transform: translate(-30px,-81px);
+}
+.card:hover .card_price{
+    transform: translate(-30px,-81px);
+    margin-right: 175px;
+}
+.card_size, .card_color, .card_button{
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.4;
+}
+.card:hover .card_size,
+.card:hover .card_color,
+.card:hover .card_button{
+    visibility: visible;
+    opacity: 100;
+}
+.card:hover .card_size{
+    margin-top: -30px;
+}
