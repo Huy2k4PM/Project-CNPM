@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/2HHOsgr.png" alt=" ">
   </a>
 </p>
-<h2 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h1>
+<h2 align="center"><b> Trường Đại học Giao Thông Vận Tải TPHCM <br>  University of Transport Ho Chi Minh City</b></h2>
 <h1 align="center"><b> HỌC PHẦN: CÔNG NGHỆ PHẦN MỀM</b></h1>
 
 # Thành viên nhóm
@@ -23,6 +23,6 @@
 
 # TIỂU LUẬN
 * **Đề tài:** HỆ THỐNG BÁN PHẦN MỀM ONLINE
-
+* **Ngôn ngữ:** Python + Framework Django
 <!-- Footer -->
 <p align='center'>Copyright © 2024 - Nguyễn Thanh Huy</p>
