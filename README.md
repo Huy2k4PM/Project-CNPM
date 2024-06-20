@@ -12,9 +12,9 @@
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      |  2251120159   |  Nguyễn Thanh Huy      |Nhóm trưởng| [Huy2K4PM](https://github.com/Huy2k4PM)                 | thanhhuypm77@gmail.com  |             
 | 2      |  2251120138   |  Lâm Văn Chương        |Thành viên |                                                         |                         |
-| 3      |  22511201     |  Nguyễn Quốc Bảo       |Thành viên |                                                         |                         |
-| 4      |  22511201     |  Nguyễn Minh Thuận     |Thành viên |                                                         |                         |
-| 5      |  22511201     |  Nguyễn Thành Can      |Thành viên |                                                         |                         |
+| 3      |  2251120135   |  Nguyễn Quốc Bảo       |Thành viên |                                                         |                         |
+| 4      |  2251120187   |  Nguyễn Minh Thuận     |Thành viên |                                                         |                         |
+| 5      |  2251120136   |  Nguyễn Thành Can      |Thành viên |                                                         |                         |
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:**  CÔNG NGHỆ PHẦN MỀM
