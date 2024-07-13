@@ -10,11 +10,11 @@
 # Thành viên nhóm
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
-| 1      |  2251120159   |  Nguyễn Thanh Huy      |Nhóm trưởng| [Huy2K4PM](https://github.com/Huy2k4PM)                 | thanhhuypm77@gmail.com  |             
-| 2      |  2251120138   |  Lâm Văn Chương        |Thành viên | [LamVanchuong](https://github.com/LamVanchuong)         |  lamvanrom@gmail.com    |
-| 3      |  2251120135   |  Nguyễn Quốc Bảo       |Thành viên | [bao77](https://github.com/bao77)                       | baonguyen@gmail.com     |
-| 4      |  2251120187   |  Nguyễn Minh Thuận     |Thành viên | [mthuan77](https://github.com/mthuan77)                 | minhthuan77@gmail.com   |
-| 5      |  2251120136   |  Nguyễn Thành Can      |Thành viên | [ToiLaCan](https://github.com/ToilaCan)                 | thanhcan@gmail.com      |
+| 1      |  2251120159   |  Nguyễn Thanh Huy  (8) |Nhóm trưởng| [Huy2K4PM](https://github.com/Huy2k4PM)                 | thanhhuypm77@gmail.com  |             
+| 2      |  2251120138   |  Lâm Văn Chương   (V)  |Thành viên | [LamVanchuong](https://github.com/LamVanchuong)         |  lamvanrom@gmail.com    |
+| 3      |  2251120135   |  Nguyễn Quốc Bảo  (V)  |Thành viên | [bao77](https://github.com/bao77)                       | baonguyen@gmail.com     |
+| 4      |  2251120187   |  Nguyễn Minh Thuận (7) |Thành viên | [mthuan77](https://github.com/mthuan77)                 | minhthuan77@gmail.com   |
+| 5      |  2251120136   |  Nguyễn Thành Can (6.5)|Thành viên | [ToiLaCan](https://github.com/ToilaCan)                 | thanhcan@gmail.com      |
 
 # GIỚI THIỆU MÔN HỌC
 * **Tên môn học:**  CÔNG NGHỆ PHẦN MỀM
